@@ -1,0 +1,2 @@
+Salom bu FILE I/O darsidagi birinchi yozgan amaliy mashqim.
+Men xali bu mavzuda kop amaliy mashqlar qilaman

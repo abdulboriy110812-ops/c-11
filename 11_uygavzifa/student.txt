@@ -1,0 +1,5 @@
+Ali 18 85.0
+Vali 19 72.0
+Hasan 17 91.0
+Sardor 18 78.0
+Jasur 19 94.0
